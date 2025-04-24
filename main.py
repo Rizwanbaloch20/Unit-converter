@@ -1,7 +1,7 @@
 import streamlit as st
 
 # App Title and Description
-st.title("🌍 Welcome to the Friendly Unit Converter!")
+st.title("🌍 Welcome to  Unit Converter!")
 st.markdown("Convert between **Length**, **Weight**, and **Time** in just a few clicks! 🚀")
 st.write("Choose a category below, enter your value, and see the magic happen. ✨")
 
